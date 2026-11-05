@@ -1,0 +1,32 @@
+{
+  "name": "AIV Bank KHDN",
+  "dataColors": [
+    "#447A2A",
+    "#2F6DB5",
+    "#D93025",
+    "#E8A33D",
+    "#7B5EA7",
+    "#8FB573",
+    "#5F6368",
+    "#1E8E3E",
+    "#B0C4DE",
+    "#C9A227"
+  ],
+  "foreground": "#202124",
+  "foregroundNeutralSecondary": "#5F6368",
+  "background": "#FFFFFF",
+  "backgroundLight": "#F4F7F2",
+  "tableAccent": "#447A2A",
+  "good": "#1E8E3E",
+  "neutral": "#5F6368",
+  "bad": "#D93025",
+  "maximum": "#447A2A",
+  "center": "#E8E8E8",
+  "minimum": "#FFFFFF",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#202124" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#202124" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#202124" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#447A2A" }
+  }
+}
